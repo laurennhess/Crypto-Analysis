@@ -1,4 +1,4 @@
-# Crypto-Analysis
+# CryptoCurrency-Analysis
 
 ## Overview 
 A prominent investment bank is interested in offering a new cryptocurrency investment portfolio to its customers. However, the company is lost in the vast universe of cryptocurrencies.
